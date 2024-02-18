@@ -1,0 +1,69 @@
+Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
+TBS,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+홈앤쇼핑,http://s33.qtcdn.co.kr/media/liveM3U8/idx/88679292/enc/365888297/playlist.m3u8
+CJ 온스타일,https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8
+롯데홈쇼핑,http://mohlslive.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+SBS,https://d21rxjywdcts3g.cloudfront.net/h264/CH_A/cmaf-hls/2/Video_1M.m3u8
+KBS1,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
+KBS2,https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
+MBC,https://d21rxjywdcts3g.cloudfront.net/h264/CH_B/cmaf-hls/2/Video_1M.m3u8
+OBS,https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+GS SHOP,http://gstv-gsshop.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/playlist.m3u8
+신세계쇼핑,http://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/chunklist.m3u8
+EBS1,https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+EBS2,https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
+MBN,ttps://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+TV조선,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8
+현대홈쇼핑,http://123.111.139.103:1935/live/hmall.stream/chunklist_w2001303077.m3u8
+EBS kids,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+EBS+1,https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+EBS+2,https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+OCN,mitv://generationnexxxt.com:19806/0fae247ef984444d9149e2c20be2c8b3
+SK스토아,http://castcache2.skstoa.com:8080/live/BSHOPPING.daml/playlist.m3u8
+KT알파쇼핑,https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
+연합뉴스,https://ythls.armelin.one/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8
+YTN,mitv://generationnexxxt.com:19806/37e575278e574bc9a9fc598c733de125
+tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
+공영쇼핑,http://etv.publichs.com/live5.stream/playlist.m3u8
+NS홈쇼핑,http://livestream.nsmall.com:1935/IPHONE/nsmallMobile.m3u8
+Mnet,http://livestream.nsmall.com:1935/IPHONE/nsmallMobile.m3u8
+KBS Joy,https://code.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8
+MBC Every1,https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
+KBS Drama,https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
+쇼핑앤티,http://114.108.31.24/live/10012.m3u8
+롯데원티비,http://onetvhlslive.lotteimall.com/lotteonetvlive/_definst_/lotteonetvlive.mp4.m3u8
+SBS Sports,https://tvlive.sbs.co.kr/sbsespn/sbsespn2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MDA3NDMwODgsInBhdGgiOiIvc2JzZXNwbjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJkMmY5NjA3NC0wNGIzLTQ2OTYtYjg1Yi01MDMyZGVkOTg5ZTMiLCJpYXQiOjE3MDA3MzU4ODh9.aqo8p5qDTM3BGQP7m_PoD6XD6T1Qr5TlSSK1TESCUOI&solsessionid=2a5a57dc92aa242fefd6eb4fb8e5ec53
+NS샵플러스,http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
+Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
+KBS Kids,https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
+SBS Biz,mitv://generationnexxxt.com:19806/a99ade867d304779a5ac84ab89228575
+KBS Life,https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
+MBC Net,http://mytv.dothome.co.kr/ch/catv/28.php
+KBS Story,https://code.vthanhtivi.pw/getlink/kbs/N94/playlist.m3u8
+한국가요채널,http://live.kytv.co.kr:8080/hls/stream.m3u8
+현대홈쇼핑+샵,https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/chunklist_b3000000.m3u8
+GS MY SHOP,http://gstv-myshop.gsshop.com/myshop_hd/_definst_/myshop_hd.stream/playlist.m3u8
+SPOTV,mitv://generationnexxxt.com:19806/441089d1c6864877a82d8dbde582d645
+SPOTV 2,mitv://generationnexxxt.com:19806/d33cf3ddad0444cfaf5118ccc834c1e7
+FISHING TV,http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
+스크린골프존,http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
+KTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+YTN2,https://ythls.armelin.one/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
+국악방송,https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+YTN 사이언스,https://ythls.armelin.one/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
+매일경제,TVhttps://ythls.armelin.one/channel/UCnfwIKyFYRuqZzzKBDt6JOA.m3u8
+SEN TV,https://ythls.armelin.one/channel/UC3p-0EWA8OXko2EUDUXAy5w.m3u8
+한국경제,TVhttps://ythls.armelin.one/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
+이데일리,TVhttps://ythls.armelin.one/channel/UC8Sv6O3Ux8ePVqorx8aOBMg.m3u8
+Tomato TV,https://ythls.armelin.one/channel/UCgJ5pT6S2NuTVP-6-AlLZew.m3u8
+NBS TV,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:iptvcat.com
+WBC TV,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+OUN TV,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+yes TV,http://cdnlive29.smartucc.kr/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+한국직업방송,https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8
+조선중앙텔레비죤,https://tv.nknews.org/tvdash/stream.mpd
+
+
+
